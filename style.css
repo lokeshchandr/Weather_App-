@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    font-family: pt-serif-regular;
+}
+
+body{
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #1c1c1c;
+}
+.contaner{
+    width: 400px;
+    height: min-content;
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding: 25px;
+}
+.w-input{
+    background-color: aliceblue;
+    width: 80%;
+    font-size: 20px;
+    padding: 12px 16px;
+    border-radius: 14px;
+    background-color: rgb(205, 255, 255);
+}
+.search-box{
+    width: 100%;
+    height: max-content;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.search-box button{
+    background-color: rgb(205, 255, 255);
+    width: 46px;
+    height: 46px;
+    border-radius: 40%;
+    cursor: pointer;
+    font-size: 20px;
+}
+.search-box button:hover{
+    background-color: #1c1c1c;
+
+}
+.wbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 20px;
+}
+.wbody img {
+    width:60% ;
+}
+
+.w-box{
+    margin-block: 20px;
+    text-align: center;
+   
+}
+
+.w-box .temp {
+    font-family: pt-serif-regular;
+    font-size: 40px;
+    font-weight: 1000;
+    position: relative;
+}
+.w-box .desp{
+    font-family: pt-serif-regular;
+    font-size: 30px;
+    font-weight: 1000;
+    position: relative;
+    text-transform: capitalize;
+}
+.w-detail{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 25px;
+}
+.humadity .wind{
+    display: flex;
+    align-items: central;
+}
+.humadity{
+    margin-left: 18px;
+}
+.wind{
+    margin-right: 18px;
+}
+.w-detail i{
+    font-size: 35px;
+}
+.humadity .text{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 12px;
+    text-transform: capitalize;
+}
+.wind .text{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 12px;
+    text-transform: capitalize;
+}
+.text span{
+    font-weight: bolder;
+}
+
