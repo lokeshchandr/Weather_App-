@@ -57,7 +57,7 @@ Check out the live version of the Weather Detection Website here: (#)
 
 4. Enter your OpenWeather API key in the JavaScript file (`script.js`):
     ```javascript
-    const apiKey = 'YOUR_API_KEY';
+    const API_K = 'YOUR_API_KEY';
     ```
 
 5. The website should now be running locally, allowing you to search for weather data.
