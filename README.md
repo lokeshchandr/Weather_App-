@@ -10,7 +10,7 @@ This project is a simple weather detection website built using **HTML**, **CSS**
 
 ## Live Demo
 
-Check out the live version of the Weather Detection Website here: (#https://lokeshchandr.github.io/Weather_App-/)
+Check out the live version of the Weather Detection Website here: (https://lokeshchandr.github.io/Weather_App-/)
 ![Screenshot 2024-10-04 223047](https://github.com/user-attachments/assets/3715bc3d-c415-450c-9228-3fe97f73fa50)
 ![Screenshot 2024-10-04 223016](https://github.com/user-attachments/assets/521b5609-84cc-40b0-9a73-463b5156981b)
 ![Screenshot 2024-10-04 222923](https://github.com/user-attachments/assets/b02d9640-ad4a-4736-b362-3ce643df461f)
