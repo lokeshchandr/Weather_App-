@@ -5,7 +5,7 @@ This project is a simple weather detection website built using **HTML**, **CSS**
 ## Table of Contents
 
 
-- [API Reference](#https://openweathermap.org/api)
+- [API Reference]( https://openweathermap.org/api)
 
 
 ## Live Demo
