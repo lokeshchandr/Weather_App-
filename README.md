@@ -42,12 +42,12 @@ Check out the live version of the Weather Detection Website here: (#)
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-detection-website.git
+    gh repo clone lokeshchandr/Weather_App-
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd weather-detection-website
+    cd Weather_App-
     ```
 
 3. Open `index.html` in your web browser:
